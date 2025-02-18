@@ -1,0 +1,1 @@
+attach_object("Pistol", player, "Pistol_Holding_Point", "Weapon");

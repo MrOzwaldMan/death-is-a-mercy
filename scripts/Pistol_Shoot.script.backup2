@@ -1,0 +1,4 @@
+fire_projectile("ITEM_0002", self, "Test_Dummy", "Pistol_Bullet");
+perform_action("shoot");
+shake_screen(2);
+print("Shoot");

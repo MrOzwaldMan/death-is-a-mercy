@@ -1,0 +1,4 @@
+give_item("ITEM_0001");
+equip_item(player, "right_hand", "ITEM_0001");
+load_map("Test Level", coord[0, 0, 0], SOUTH);
+
